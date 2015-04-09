@@ -1,0 +1,1 @@
+UberSurge is a PHP-based web interface that reports the Uber price surge factor for a number of preset coordinates based on data supplied by Uber's REST API. It also implements very simple session-based authentication and a rudimentary user privilege system. 
